@@ -4,7 +4,7 @@ labels:
 questions:
 - variable: token
   default: ""
-  description: "Enter your Kubemq token, register on https://account.kubemq.io/login/register"
+  description: "Enter your Kubemq token, register free: https://account.kubemq.io/login/register"
   label: KubeMQ token
   type: string 
   required: true
