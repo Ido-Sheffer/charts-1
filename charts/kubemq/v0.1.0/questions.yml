@@ -1,6 +1,6 @@
 labels:
   io.cattle.role: project
-  questions:
+questions:
 - variable: token
   default: ""
   description: "Enter your Kubemq token"
