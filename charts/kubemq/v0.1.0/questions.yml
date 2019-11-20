@@ -1,6 +1,5 @@
 categories:
-- microservices
-- oz
+- messaging services
 labels:
   io.cattle.role: project
   io.rancher.certified: partner
