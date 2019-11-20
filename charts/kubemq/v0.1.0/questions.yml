@@ -1,12 +1,11 @@
-categories:
-- messaging services
+
 labels:
   io.cattle.role: project
   io.rancher.certified: partner
-questions:
+  questions:
 - variable: token
   default: ""
-  description: "Enter your Kubemq token, register free: https://account.kubemq.io/login/register"
+  description: "Enter your Kubemq token"
   label: KubeMQ token
   type: string 
   required: true
