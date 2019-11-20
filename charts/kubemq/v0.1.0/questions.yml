@@ -1,3 +1,6 @@
+categories:
+- microservices
+- oz
 labels:
   io.cattle.role: project
   io.rancher.certified: partner
