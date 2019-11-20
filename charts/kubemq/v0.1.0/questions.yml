@@ -1,6 +1,5 @@
 labels:
   io.cattle.role: project
-  io.rancher.certified: partner
   questions:
 - variable: token
   default: ""
